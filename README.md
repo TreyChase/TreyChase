@@ -1,4 +1,6 @@
-My name is Trey Chase, and this page is home to my analytics projects. 
+Trey Chase
+
+Home to both independent and academic analytics projects.  
 
 <!---
 TreyChase/TreyChase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
